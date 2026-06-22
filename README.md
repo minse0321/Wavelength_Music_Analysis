@@ -42,3 +42,7 @@ to understand retention, funnel conversion, and subscription drivers.
 
 ## Dashboard
 🔗 [View on Tableau Public](https://public.tableau.com/views/Wavelength_User_Behavior_Analysis/WavelengthUserBehaviorDashboard)
+
+## Amplitude Dashboard
+![Funnel](amplitude_funnel.jpg)
+![Retention](amplitude_retention.jpg)
